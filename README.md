@@ -1,3 +1,3 @@
-# GMC: Graph-based Multi-view Clustering
+# Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization
 
-This repo hosts the code for paper "GMC: Graph-based Multi-view Clustering", IEEE TKDE, 2019.
+This is the code for paper "Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization", Knowledge-Based Systems, 2019.
